@@ -1,4 +1,4 @@
 # SiteSimples
-> **ite simples para cadastro e login....**.
+> **-Site simples para cadastro e login....-**.
 >  **obs:Chat esta em desenvolvimento**
 **#protótipo**
